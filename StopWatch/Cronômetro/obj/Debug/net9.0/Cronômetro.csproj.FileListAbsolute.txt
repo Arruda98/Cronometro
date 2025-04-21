@@ -1,0 +1,14 @@
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\StopWatch\Cronômetro\bin\Debug\net9.0\Cronômetro.exe
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\StopWatch\Cronômetro\bin\Debug\net9.0\Cronômetro.deps.json
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\StopWatch\Cronômetro\bin\Debug\net9.0\Cronômetro.runtimeconfig.json
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\StopWatch\Cronômetro\bin\Debug\net9.0\Cronômetro.dll
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\StopWatch\Cronômetro\bin\Debug\net9.0\Cronômetro.pdb
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\StopWatch\Cronômetro\obj\Debug\net9.0\Cronômetro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\StopWatch\Cronômetro\obj\Debug\net9.0\Cronômetro.AssemblyInfoInputs.cache
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\StopWatch\Cronômetro\obj\Debug\net9.0\Cronômetro.AssemblyInfo.cs
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\StopWatch\Cronômetro\obj\Debug\net9.0\Cronômetro.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\StopWatch\Cronômetro\obj\Debug\net9.0\Cronômetro.dll
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\StopWatch\Cronômetro\obj\Debug\net9.0\refint\Cronômetro.dll
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\StopWatch\Cronômetro\obj\Debug\net9.0\Cronômetro.pdb
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\StopWatch\Cronômetro\obj\Debug\net9.0\Cronômetro.genruntimeconfig.cache
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\StopWatch\Cronômetro\obj\Debug\net9.0\ref\Cronômetro.dll
